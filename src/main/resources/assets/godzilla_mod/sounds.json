@@ -1,0 +1,111 @@
+{
+  "godzilla.roar": {
+    "subtitle": "subtitles.godzilla_mod.roar",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ender_dragon.growl",
+        "type": "event",
+        "pitch": 0.45,
+        "volume": 4.0
+      }
+    ]
+  },
+  "godzilla.charge": {
+    "subtitle": "subtitles.godzilla_mod.charge",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.sonic_charge",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 3.0
+      }
+    ]
+  },
+  "godzilla.plate": {
+    "subtitle": "subtitles.godzilla_mod.plate",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.resonate",
+        "type": "event",
+        "volume": 2.0
+      }
+    ]
+  },
+  "godzilla.beam": {
+    "subtitle": "subtitles.godzilla_mod.beam",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.sonic_boom",
+        "type": "event",
+        "pitch": 0.45,
+        "volume": 4.0
+      }
+    ]
+  },
+  "godzilla.step": {
+    "subtitle": "subtitles.godzilla_mod.step",
+    "sounds": [
+      {
+        "name": "minecraft:entity.iron_golem.step",
+        "type": "event",
+        "pitch": 0.3,
+        "volume": 3.0
+      }
+    ]
+  },
+  "godzilla.bite": {
+    "subtitle": "subtitles.godzilla_mod.bite",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ravager.attack",
+        "type": "event",
+        "pitch": 0.5,
+        "volume": 2.0
+      }
+    ]
+  },
+  "godzilla.tail": {
+    "subtitle": "subtitles.godzilla_mod.tail",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ender_dragon.flap",
+        "type": "event",
+        "pitch": 0.4,
+        "volume": 2.0
+      }
+    ]
+  },
+  "godzilla.hurt": {
+    "subtitle": "subtitles.godzilla_mod.hurt",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ravager.hurt",
+        "type": "event",
+        "pitch": 0.4,
+        "volume": 2.0
+      }
+    ]
+  },
+  "godzilla.death": {
+    "subtitle": "subtitles.godzilla_mod.death",
+    "sounds": [
+      {
+        "name": "minecraft:entity.ender_dragon.death",
+        "type": "event",
+        "pitch": 0.6,
+        "volume": 4.0
+      }
+    ]
+  },
+  "godzilla.blast": {
+    "subtitle": "subtitles.godzilla_mod.blast",
+    "sounds": [
+      {
+        "name": "minecraft:entity.generic.explode",
+        "type": "event",
+        "pitch": 0.4,
+        "volume": 5.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "entity.godzilla_mod.godzilla_minus_one": "Godzilla Minus One",
+  "item.godzilla_mod.godzilla_minus_one_spawn_egg": "Godzilla Minus One Spawn Egg",
+  "subtitles.godzilla_mod.roar": "Godzilla roars",
+  "subtitles.godzilla_mod.charge": "Godzilla's dorsal plates charge",
+  "subtitles.godzilla_mod.plate": "Dorsal plate ignites",
+  "subtitles.godzilla_mod.beam": "Atomic breath",
+  "subtitles.godzilla_mod.step": "Godzilla stomps",
+  "subtitles.godzilla_mod.bite": "Godzilla bites",
+  "subtitles.godzilla_mod.tail": "Godzilla's tail whips",
+  "subtitles.godzilla_mod.hurt": "Godzilla grunts",
+  "subtitles.godzilla_mod.death": "Godzilla collapses",
+  "subtitles.godzilla_mod.blast": "Atomic blast"
+}

@@ -1,0 +1,30 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "godzilla_mod"
+version = "1.0.0"
+displayName = "Godzilla Minus One"
+description = '''Adds the Godzilla Minus One boss: 5,000 HP, block-flattening footsteps, jaw/tail attacks and the atomic breath.'''
+
+[[dependencies.godzilla_mod]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.godzilla_mod]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.godzilla_mod]]
+modId = "geckolib"
+type = "required"
+versionRange = "[4.8,)"
+ordering = "AFTER"
+side = "BOTH"
